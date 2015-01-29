@@ -36,6 +36,7 @@
     "chai": "~1.2.0"
   },
   "dependencies": {
-    "URIjs": ""
+    "URIjs": "",
+    "cheerio": "~0.18.0"
   }
 }
